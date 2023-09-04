@@ -14,6 +14,7 @@
     "@callstack/react-theme-provider": "^3.0.9",
     "@linaria/core": "^4.5.4",
     "@linaria/react": "^4.5.4",
+    "@react-theming/storybook-addon": "^1.1.10",
     "@types/node": "20.5.9",
     "@types/react": "18.2.21",
     "@types/react-dom": "18.2.7",
