@@ -1,7 +1,7 @@
 import { createTheming } from "@callstack/react-theme-provider";
 import { PropsWithChildren } from "react";
 
-const lightTheme = {
+export const lightTheme = {
     colors: {
         accent100: "#F1A9A7",
         accent200: "#E4534E",
